@@ -1,0 +1,10 @@
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.search {
+    width: 700px;
+    height: 25px;
+    border-radius: 4px;
+}

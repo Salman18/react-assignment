@@ -1,0 +1,34 @@
+.img {
+    width: 125px;
+    height: 140px;
+    align-self: center;
+}
+
+.cardContainer {
+    flex-direction: row;
+    display: flex;
+    width: 700px;
+    height: 200px;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+.linkText {
+    text-align: justify;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    color: '#727672d6';
+}
+
+.titleText {
+    text-align: justify;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+.snippet {
+    text-align: justify;
+    padding-left: 20px;
+}
+
